@@ -1,41 +1,121 @@
 {
-    "arabica": [
+    "atasan": [
         {
-            "foto": "images/produk/product_capuchino.jpg",
-            "nama": "Cappuccino Arabica",
-            "size": "500 Gram",
+            "foto": "https://i.pinimg.com/236x/f5/7f/69/f57f6978cbe9d557e402350bccf655a5.jpg",
+            "nama": "Chunky Cable Knit Jumpers",
+            "warna": "Cream",
             "harga": "200.000",
-            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+            "link": "https://i.pinimg.com/564x/d8/55/ba/d855ba6a5d852a7ea769c5556ae13e9a.jpg"
         },
         {
-            "foto": "images/produk/product_espresso.jpg",
-            "nama": "Pahit Arabica",
-            "size": "100 Gram",
+            "foto": "https://i.pinimg.com/236x/cb/ed/fb/cbedfbef59845c1ddf926820934d3783.jpg",
+            "nama": "Contrast Collar Cable Knit 2 In 1 Blouse",
+            "size": "Hitam",
             "harga": "100.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Arabica",
-            "size": "150 Gram",
+            "foto": "https://i.pinimg.com/236x/b0/89/49/b08949dd2256a8383294cb478adbc982.jpg",
+            "nama": "Collar Tweed Panel Blouse",
+            "size": "Kuning",
             "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
-        }
-    ],
-    "robusta": [
-        {
-            "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Kopsus Robusta",
-            "size": "100 Gram",
-            "harga": "500.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+            "link": "https://i.pinimg.com/236x/b0/89/49/b08949dd2256a8383294cb478adbc982.jpg"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Robusta",
-            "size": "150 Gram",
+            "foto": "https://i.pinimg.com/236x/7f/ef/c1/7fefc148908ee7a4be0e4af3158efb64.jpg",
+            "nama": "Drop Shoulder Button Up Tie Hem",
+            "size": "Putih",
             "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+            "link": "https://i.pinimg.com/236x/7f/ef/c1/7fefc148908ee7a4be0e4af3158efb64.jpg"
+        }
+
+    ],
+    "bawahan": [
+        {
+            "foto": "https://i.pinimg.com/564x/40/00/ce/4000ce3433805f73a4b85bdd790516ee.jpg",
+            "nama": "Celana Wanita",
+            "warna": "Hitam",
+            "harga": "500.000",
+            "link": "https://i.pinimg.com/564x/40/00/ce/4000ce3433805f73a4b85bdd790516ee.jpg"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/67/90/e5/6790e520936bcc88964d9b054c1c2f26.jpg",
+            "nama": "Straight Leg Trousers",
+            "warna": "Abu",
+            "harga": "150.000",
+            "link": "https://i.pinimg.com/564x/67/90/e5/6790e520936bcc88964d9b054c1c2f26.jpg"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/4d/bb/87/4dbb873638b59c457a704033cfdcaced.jpg",
+            "nama": "Blue Trousers",
+            "size": "Biru",
+            "harga": "500.000",
+            "link": "https://i.pinimg.com/564x/4d/bb/87/4dbb873638b59c457a704033cfdcaced.jpg"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/95/8b/15/958b1517423e8181e7e431d730c29732.jpg",
+            "nama": "Trousers",
+            "size": "Cream",
+            "harga": "150.000",
+            "link": "https://i.pinimg.com/564x/95/8b/15/958b1517423e8181e7e431d730c29732.jpg"
+        }
+    ],
+    "sepatu": [
+        {
+            "foto": "https://i.pinimg.com/564x/40/da/a2/40daa2e87258892d87d3219c08301ddf.jpg",
+            "nama": "Bridal Booties",
+            "warna": "Putih",
+            "harga": "500.000",
+            "link": "https://i.pinimg.com/564x/40/da/a2/40daa2e87258892d87d3219c08301ddf.jpg"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/c6/71/7c/c6717ce865a01c6a33af82649d070bb3.jpg",
+            "nama": "Women Striped Pattern Lace-up Front Skate Casual Shoes",
+            "warna": "Cokelat",
+            "harga": "150.000",
+            "link": "https://i.pinimg.com/564x/c6/71/7c/c6717ce865a01c6a33af82649d070bb3.jpg"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/57/4e/da/574edad060e3e06509e54f4bf6691e1e.jpg",
+            "nama": "Chunky Heeled Mary Jane Pumps",
+            "size": "Cream",
+            "harga": "500.000",
+            "link": "https://i.pinimg.com/564x/57/4e/da/574edad060e3e06509e54f4bf6691e1e.jpg"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/4c/c3/3e/4cc33e7a72dfb74e3bc5c404592da2f9.jpg",
+            "nama": "Chain-link Mary Janes",
+            "size": "Putih",
+            "harga": "150.000",
+            "link": "https://i.pinimg.com/564x/4c/c3/3e/4cc33e7a72dfb74e3bc5c404592da2f9.jpg"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/bf/ce/b0/bfceb06943370f423ceae914a454b12a.jpg",
+            "nama": "Miss Albright Block Heel Mary Janes",
+            "size": "Merah",
+            "harga": "500.000",
+            "link": "https://i.pinimg.com/564x/bf/ce/b0/bfceb06943370f423ceae914a454b12a.jpg"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/af/a9/ed/afa9edce28ba76f052ed6555642ce62a.jpg",
+            "nama": "Virgule Bow Slingback Pumps ",
+            "size": "Hitam",
+            "harga": "150.000",
+            "link": "https://i.pinimg.com/564x/af/a9/ed/afa9edce28ba76f052ed6555642ce62a.jpg"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/bf/fb/63/bffb635e57e918832a7becd3759c66ef.jpg",
+            "nama": "Daymaster Leather Sneakers ",
+            "size": "Putih",
+            "harga": "500.000",
+            "link": "https://i.pinimg.com/564x/bf/fb/63/bffb635e57e918832a7becd3759c66ef.jpg"
+        },
+        {
+            "foto": "https://i.pinimg.com/564x/ae/fa/e5/aefae58d5768a055bd5ea4df87b5de36.jpg",
+            "nama": "Superga Pink Canvas Platform Sneakers ",
+            "size": "Pink",
+            "harga": "150.000",
+            "link": "https://i.pinimg.com/564x/ae/fa/e5/aefae58d5768a055bd5ea4df87b5de36.jpg"
         }
     ]
 }
